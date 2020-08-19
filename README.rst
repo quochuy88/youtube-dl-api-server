@@ -8,4 +8,6 @@ About
 
 ``youtube-dl-api-server`` is released to the public domain, read the `license <LICENSE>`_ for more info.
 
-[![deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+# deploy
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
