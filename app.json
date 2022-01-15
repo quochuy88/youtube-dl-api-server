@@ -1,7 +1,7 @@
 {
   "name": "Youtube-dl-server",
   "description": "Get YouTube Videos Mp4 and Mp3 Endpoints. This Deploy button was added as part of the youtube alexa edition project.",
-  "repository": "https://github.com/andrewstech/youtube-dl-api-server",
+  "repository": "https://github.com/quochuy88/youtube-dl-api-server",
   "logo": "https://pngimg.com/uploads/youtube/youtube_PNG21.png",
   "keywords": ["youtube-dl", "alexa", "alpha-video"]
 }
